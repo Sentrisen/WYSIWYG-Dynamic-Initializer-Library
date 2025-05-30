@@ -94,10 +94,10 @@ Even with lazy loading, **Trumbowyg remains the fastest** option, making it idea
 
 ## 📥 Download
 
-
+[![Download](https://img.shields.io/badge/Download-wysiwygIL.js-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sentrisen/WYSIWYG-Dynamic-Initializer-Library/main/wysiwygIL.js)
 
 ---
 
 ## 📄 License
 
-- [MIT LICENSE]()
+- [MIT LICENSE](https://github.com/Sentrisen/WYSIWYG-Dynamic-Initializer-Library/blob/main/LICENSE)
